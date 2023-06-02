@@ -1,0 +1,3 @@
+slot8.RightTriangle
+slot8.IllegalTriangleException
+slot8.IllegalRightTriangleException
